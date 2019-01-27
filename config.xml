@@ -6,8 +6,6 @@
     version     = "1.0.0">
 
   <name>TrigonWebs</name>
-    
-  <allow-navigation href="https://www.trigonwebs.com/*" />
 
   <description>TrigonWebs App</description>
 
