@@ -14,6 +14,8 @@
   </author>
   
   <platform name="android" />
+    
+   <access origin="*" />
   
   <icon src="img/twlogo_black.png" />
   
